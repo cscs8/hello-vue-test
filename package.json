@@ -1,0 +1,22 @@
+{
+  "name": "nuxt_axios_app",
+  "version": "1.0.0",
+  "description": "My epic Nuxt.js project",
+  "author": "cs8",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "core-js": "2.6.11",
+    "firebase": "^7.6.1",
+    "nuxt": "^2.0.0",
+    "vuex": "^3.1.2",
+    "vuex-persistedstate": "^2.7.0"
+  },
+  "devDependencies": {}
+}
